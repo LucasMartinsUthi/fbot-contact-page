@@ -33,14 +33,14 @@ header{
    justify-content: center;
 }
 header img{
-    max-width: 18rem;
+    max-width: 12rem;
 }
   .content {
     background-color: #003D7A;
     color:white;
     border: 1px solid black;
     border-radius:5px;
-    height: 1.8rem;
+    height: 1.6rem;
     padding:0.5rem;
     padding-left: 1rem;
     text-align: left;
